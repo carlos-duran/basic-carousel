@@ -9,6 +9,14 @@ body {
   color: darkgreen;
 }
 
+h1 {
+  margin-bottom: 16px;
+}
+
+p {
+  margin-bottom: 24px;
+}
+
 img {
   max-width: 100%;
 }
